@@ -7,8 +7,7 @@ from telebot.async_telebot import AsyncTeleBot
 
 bot = AsyncTeleBot('8016414905:AAGHGy2imdTzevs5A8297Kw6snpXZvUzQyU')
 CHAT_IDS = [
-    {'chat_id': '-1003688643920', 'thread_id': 14},
-    {'chat_id': '-1003579850616', 'thread_id': 35}
+    {'chat_id': '-1003795730228', 'thread_id': 2}
 ]
 checked_proxies = set()
 semaphore = asyncio.Semaphore(100)
